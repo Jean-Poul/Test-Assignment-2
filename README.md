@@ -72,11 +72,13 @@ Can be found in the following link:
 
 All test solutions can be found in the test package in my uploaded project.   
 **Results:**  
+Feature tests:    
 ![BDD tests](https://raw.githubusercontent.com/Jean-Poul/Test-Assignment-2/main/pictures/BDD-feature-test.PNG)  
-![Red test](https://github.com/Jean-Poul/Test-Assignment-2/blob/main/pictures/TDD-unit-test.PNG)  
-![Green test](pictures/TDD-unit-test.png)
-
-
+Red unit test:  
+![Red test](https://github.com/Jean-Poul/Test-Assignment-2/blob/main/pictures/red.PNG)  
+Green unit tests:    
+![Green test]https://github.com/Jean-Poul/Test-Assignment-2/blob/main/pictures/TDD-unit-test.PNG)
+  
 ## 3 Investigation of tools  
 
 ### 3.1 JUnit 5  
