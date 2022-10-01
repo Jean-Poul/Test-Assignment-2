@@ -72,9 +72,9 @@ Can be found in the following link:
 
 All test solutions can be found in the test package in my uploaded project.   
 **Results:**  
-![BDD tests](BDD-feature-test.jpg)  
-![Red test](red.jpg)  
-![Green test](TDD-unit-test.jpg)
+![BDD tests](pictures/BDD-feature-test.png)  
+![Red test](pictures/red.png)  
+![Green test](pictures/TDD-unit-test.png)
 
 
 ## 3 Investigation of tools  
