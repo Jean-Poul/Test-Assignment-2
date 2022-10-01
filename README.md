@@ -72,7 +72,7 @@ Can be found in the following link:
 
 All test solutions can be found in the test package in my uploaded project.   
 **Results:**  
-![BDD tests](pictures/BDD-feature-test.png)  
+![BDD tests](https://raw.githubusercontent.com/Jean-Poul/Test-Assignment-2/main/pictures/BDD-feature-test.png)  
 ![Red test](pictures/red.png)  
 ![Green test](pictures/TDD-unit-test.png)
 
